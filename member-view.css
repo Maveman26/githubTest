@@ -1,0 +1,211 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.path-44-icon1 {
+  position: absolute;
+  height: calc(100% + 1159.6px);
+  width: calc(100% + 831.4px);
+  top: -75.077rem;
+  right: -29.462rem;
+  bottom: 2.603rem;
+  left: -22.5rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.continue-item {
+  position: absolute;
+  width: calc(100% - 103.7px);
+  right: 3.24rem;
+  bottom: 0.001rem;
+  left: 3.241rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) inset, 0 3px 6px rgba(0, 0, 0, 0.16);
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumseagreen-800);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.continue3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 0.75rem;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.continue2 {
+  position: absolute;
+  bottom: 4.812rem;
+  left: calc(50% - 191px);
+  width: 23.875rem;
+  height: 40.038rem;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+}
+.header1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-mediumseagreen-800);
+  height: 10.563rem;
+}
+.logout1 {
+  position: absolute;
+  bottom: 5.75rem;
+  left: calc(50% - 21px);
+}
+.peer-examples {
+  margin: 0;
+}
+.johndoemailcom {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 47.49px);
+}
+.inputs7 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumseagreen-700);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.johndoemailcom1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 108.99px);
+}
+.inputs8 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumseagreen-700);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.inputs8:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.inputs6 {
+  position: absolute;
+  top: calc(50% - 107.09px);
+  left: calc(50% - 637.06px);
+  width: 37.838rem;
+  height: 8.063rem;
+}
+.johndoemailcom2,
+.johndoemailcom3 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 101.99px);
+}
+.johndoemailcom3 {
+  left: calc(50% - 60.99px);
+}
+.inputs11 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumseagreen-700);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.inputs-child,
+.inputs9 {
+  position: absolute;
+  width: 37.838rem;
+}
+.inputs9 {
+  top: calc(50% + 46.91px);
+  left: calc(50% - 637.06px);
+  height: 8.063rem;
+}
+.inputs-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumseagreen-700);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.johndoemailcom4 {
+  position: absolute;
+  top: 1rem;
+  left: 13.169rem;
+}
+.inputs13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 37.838rem;
+  height: 3rem;
+}
+.johndoemailcom5 {
+  position: absolute;
+  top: 1rem;
+  left: 17.201rem;
+}
+.inputs14 {
+  position: absolute;
+  top: 5.063rem;
+  left: 0;
+  width: 37.838rem;
+  height: 3rem;
+}
+.inputs12 {
+  position: absolute;
+  height: 13.42%;
+  width: 31.53%;
+  top: 54.88%;
+  right: 16.82%;
+  bottom: 31.7%;
+  left: 51.65%;
+}
+.johndoemailcom6,
+.johndoemailcom7 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 18.49px);
+}
+.johndoemailcom7 {
+  left: calc(50% - 54.99px);
+}
+.inputs15 {
+  position: absolute;
+  top: calc(50% - 107.09px);
+  left: calc(50% + 31.65px);
+  width: 37.838rem;
+  height: 8.063rem;
+}
+.member-view {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 60.063rem;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-bebas-neue);
+}

@@ -1,0 +1,348 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.path-37-icon4 {
+  position: absolute;
+  top: -85.694rem;
+  left: -25.769rem;
+  width: 178.106rem;
+  height: 152.713rem;
+}
+.top5 {
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.background3,
+.top5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120rem;
+  height: 7.25rem;
+}
+.icon-ion-home-sharp9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-ion-home-sharp8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.89rem;
+  left: 1.563rem;
+  width: 3.975rem;
+  height: 3.469rem;
+}
+.icon-ion-home-sharp8:hover,
+.indeed4:hover,
+.learn-more-button3:hover,
+.twitter4:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.north-texas-innovation-allianc8 {
+  position: absolute;
+  top: -2.875rem;
+  left: 19rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.actions-areas-child {
+  position: absolute;
+  top: 1.938rem;
+  left: 41.563rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36.875rem;
+  height: 3.5rem;
+}
+.icon-ion-search-sharp4 {
+  position: absolute;
+  top: 2.776rem;
+  left: 42.25rem;
+  width: 2.075rem;
+  height: 1.725rem;
+}
+.icon-fa-solid-x4 {
+  position: absolute;
+  top: 3.093rem;
+  left: 76.75rem;
+  width: 1rem;
+  height: 1.175rem;
+}
+.north-texas-innovation-container4 {
+  position: absolute;
+  top: 133.375rem;
+  left: 10.938rem;
+  font-size: var(--font-size-81xl);
+  line-height: 2.063rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-mediumseagreen-100);
+  display: none;
+  mix-blend-mode: darken;
+}
+.bottom11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 22.313rem;
+}
+.north-texas-innovation-allianc9 {
+  position: absolute;
+  top: 5.375rem;
+  left: 8.75rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.bottom-child3 {
+  position: absolute;
+  top: 11.938rem;
+  left: 43.25rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 33.5rem;
+  height: 6.188rem;
+}
+.email-address6,
+.subscribe-to-our6 {
+  position: absolute;
+  line-height: 2.5rem;
+}
+.email-address6 {
+  top: 13.688rem;
+  left: 47rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-gray-200);
+  opacity: 0.46;
+}
+.subscribe-to-our6 {
+  top: 2.375rem;
+  left: 35.625rem;
+  font-size: var(--font-size-41xl);
+}
+.sign-up-with6 {
+  position: absolute;
+  top: 6.688rem;
+  left: 40.063rem;
+  font-size: var(--font-size-6xl);
+  text-transform: lowercase;
+}
+.learn-more-button-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.sign-up3 {
+  position: absolute;
+  top: 1.375rem;
+  left: 1.188rem;
+  font-size: var(--font-size-16xl);
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 8.75rem;
+}
+.learn-more-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12.625rem;
+  left: 77.75rem;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.bottom10 {
+  position: absolute;
+  top: 336.563rem;
+  left: 0;
+  width: 120rem;
+  height: 22.313rem;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.twitter4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.563rem;
+  left: 89.75rem;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+.indeed-child2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+}
+.in4,
+.indeed-child2,
+.indeed4 {
+  position: absolute;
+}
+.in4 {
+  top: 14.08%;
+  left: 23.29%;
+  font-size: var(--font-size-32xl);
+  letter-spacing: 0.51px;
+  text-transform: lowercase;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-darkturquoise);
+  text-align: center;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.indeed4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1.563rem;
+  left: 95rem;
+  width: 4.563rem;
+  height: 4.438rem;
+}
+.urban-resilience-fellows {
+  position: absolute;
+  top: 79.625rem;
+  left: 4.5rem;
+  line-height: 0.75rem;
+}
+.national-collaboration,
+.ntxia-organizational-prioritie {
+  position: absolute;
+  top: 131.375rem;
+  left: 60.688rem;
+  line-height: 0.75rem;
+}
+.ntxia-organizational-prioritie {
+  top: 26.75rem;
+  left: 20.938rem;
+  font-size: 5.625rem;
+}
+.the-concept-taking {
+  margin: 0;
+}
+.in-2021-ntxia-container,
+.the-concept-taking-container {
+  position: absolute;
+  top: 87.063rem;
+  left: 4.563rem;
+  font-size: var(--font-size-6xl);
+  text-align: left;
+}
+.in-2021-ntxia-container {
+  top: 138.813rem;
+  left: 49.313rem;
+}
+.screenshot-2024-11-06-110739,
+.screenshot-2024-11-06-111205 {
+  position: absolute;
+  top: 87.063rem;
+  left: 72rem;
+  width: 44.75rem;
+  height: 19.563rem;
+  object-fit: cover;
+}
+.screenshot-2024-11-06-111205 {
+  top: 130.688rem;
+  left: 4.5rem;
+  width: 37.938rem;
+  height: 27.313rem;
+}
+.call-for-innovation-container {
+  position: absolute;
+  top: 169.313rem;
+  left: 8.5rem;
+  line-height: 0.75rem;
+}
+.research-partnerships-north-container {
+  position: absolute;
+  top: 236.438rem;
+  left: 47.75rem;
+  line-height: 0.75rem;
+}
+.as-the-public-container,
+.research-partnerships-are-container {
+  position: absolute;
+  top: 180.438rem;
+  left: 8.5rem;
+  font-size: var(--font-size-6xl);
+  text-align: left;
+}
+.research-partnerships-are-container {
+  top: 247.688rem;
+  left: 45.625rem;
+}
+.screenshot-2024-11-06-111810 {
+  position: absolute;
+  top: 179.75rem;
+  left: 72rem;
+  width: 36.875rem;
+  height: 19.5rem;
+  object-fit: cover;
+}
+.screenshot-2024-11-06-111825,
+.screenshot-2024-11-06-112906 {
+  position: absolute;
+  top: 203.625rem;
+  left: 65.5rem;
+  width: 24.938rem;
+  height: 19.188rem;
+  object-fit: cover;
+}
+.screenshot-2024-11-06-112906 {
+  top: 240.25rem;
+  left: 3.5rem;
+  width: 40.688rem;
+  height: 19.75rem;
+}
+.actions-areas {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 358.875rem;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-mediumseagreen-600);
+  font-family: var(--font-bahnschrift);
+}

@@ -1,0 +1,117 @@
+.path-44-icon2 {
+  position: absolute;
+  height: calc(100% + 1159.6px);
+  width: calc(100% + 831.4px);
+  top: -75.077rem;
+  right: -29.462rem;
+  bottom: 2.603rem;
+  left: -22.5rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.continue-inner {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0.001rem;
+  left: 0;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) inset, 0 3px 6px rgba(0, 0, 0, 0.16);
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumturquoise);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.i4nxtia {
+  margin: 0;
+}
+.continue5 {
+  position: absolute;
+  top: 0;
+  left: 1.509rem;
+  line-height: 0.75rem;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.continue4 {
+  position: absolute;
+  bottom: 4.812rem;
+  left: calc(50% - 139.14px);
+  width: 17.394rem;
+  height: 40.038rem;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+}
+.header2 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-mediumturquoise);
+  height: 10.563rem;
+}
+.johndoemailcom8 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 35.49px);
+}
+.inputs19 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumturquoise);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.johndoemailcom9 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 14.99px);
+}
+.inputs20 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumturquoise);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.inputs18,
+.inputs21 {
+  position: absolute;
+  left: calc(50% - 302.71px);
+  width: 37.838rem;
+  height: 8.063rem;
+}
+.inputs18 {
+  top: calc(50% - 117.5px);
+  color: var(--color-mediumturquoise);
+}
+.inputs21 {
+  top: calc(50% + 48.5px);
+}
+.logout2 {
+  position: absolute;
+  top: 88.76%;
+  left: 48.91%;
+  color: var(--color-white);
+}
+.i4ntxia {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 60.063rem;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-bebas-neue);
+}

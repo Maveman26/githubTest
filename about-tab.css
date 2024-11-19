@@ -1,0 +1,631 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.path-37-icon10,
+.path-40-icon {
+  position: absolute;
+  top: 297.438rem;
+  left: -109.378rem;
+  width: 414.756rem;
+  height: 535.288rem;
+}
+.path-37-icon10 {
+  top: -63.256rem;
+  left: -24.831rem;
+  width: 162.413rem;
+  height: 134.888rem;
+}
+.top12 {
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.background6,
+.top12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120rem;
+  height: 7.25rem;
+}
+.icon-ion-home-sharp19 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-ion-home-sharp18 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.89rem;
+  left: 1.563rem;
+  width: 3.975rem;
+  height: 3.469rem;
+}
+.icon-ion-home-sharp18:hover,
+.indeed10:hover,
+.learn-more-button8:hover,
+.twitter10:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.north-texas-innovation-allianc21 {
+  position: absolute;
+  top: -2.875rem;
+  left: 19rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.about-tab-child {
+  position: absolute;
+  top: 1.938rem;
+  left: 41.563rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36.875rem;
+  height: 3.5rem;
+}
+.icon-ion-search-sharp10 {
+  position: absolute;
+  top: 2.776rem;
+  left: 42.25rem;
+  width: 2.075rem;
+  height: 1.725rem;
+}
+.icon-fa-solid-x10 {
+  position: absolute;
+  top: 3.093rem;
+  left: 76.75rem;
+  width: 1rem;
+  height: 1.175rem;
+}
+.about-the {
+  margin: 0;
+}
+.about-the-north-container {
+  position: absolute;
+  top: 31.563rem;
+  left: 15.5rem;
+  font-size: var(--font-size-81xl);
+  line-height: 6.25rem;
+  text-transform: uppercase;
+  font-family: var(--font-bahnschrift);
+  color: var(--color-ghostwhite);
+  display: inline-block;
+  width: 89.063rem;
+  height: 15.875rem;
+}
+.north-texas-innovation-container11 {
+  position: absolute;
+  top: 133.375rem;
+  left: 10.938rem;
+  font-size: var(--font-size-81xl);
+  line-height: 2.063rem;
+  color: var(--color-mediumseagreen-100);
+  display: none;
+  mix-blend-mode: darken;
+}
+.bottom22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 22.313rem;
+}
+.north-texas-innovation-allianc22 {
+  position: absolute;
+  top: 5.375rem;
+  left: 8.75rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.bottom-child9 {
+  position: absolute;
+  top: 11.938rem;
+  left: 43.25rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 33.5rem;
+  height: 6.188rem;
+}
+.email-address13 {
+  position: absolute;
+  top: 13.688rem;
+  left: 47rem;
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-gray-200);
+  opacity: 0.46;
+}
+.subscribe-to-our13 {
+  position: absolute;
+  top: 2.375rem;
+  left: 35.625rem;
+  font-size: var(--font-size-41xl);
+  line-height: 2.5rem;
+}
+.sign-up-with13 {
+  position: absolute;
+  top: 6.688rem;
+  left: 40.063rem;
+  font-size: var(--font-size-6xl);
+  text-transform: lowercase;
+}
+.learn-more-button-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.sign-up10 {
+  position: absolute;
+  top: 1.375rem;
+  left: 1.188rem;
+  font-size: var(--font-size-16xl);
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 8.75rem;
+}
+.learn-more-button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12.625rem;
+  left: 77.75rem;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.bottom21 {
+  position: absolute;
+  top: 637.125rem;
+  left: 0;
+  width: 120rem;
+  height: 22.313rem;
+  color: var(--color-white);
+  font-family: var(--font-bahnschrift);
+}
+.twitter10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.563rem;
+  left: 89.75rem;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+.indeed-child8 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+}
+.in10,
+.indeed-child8,
+.indeed10 {
+  position: absolute;
+}
+.in10 {
+  top: 14.08%;
+  left: 23.29%;
+  font-size: var(--font-size-32xl);
+  letter-spacing: 0.51px;
+  text-transform: lowercase;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-darkturquoise);
+  text-align: center;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.indeed10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1.563rem;
+  left: 95rem;
+  width: 4.563rem;
+  height: 4.438rem;
+}
+.the-purpose-of {
+  margin: 0;
+  text-decoration: underline;
+}
+.the-purpose-of-container {
+  position: absolute;
+  top: 80.438rem;
+  left: 13.875rem;
+  font-size: var(--font-size-xl);
+  line-height: 4.063rem;
+  text-transform: capitalize;
+  font-family: var(--font-bahnschrift);
+  text-align: right;
+}
+.screenshot-2024-10-15-171301 {
+  position: absolute;
+  top: 84.5rem;
+  left: 60rem;
+  width: 49.563rem;
+  height: 20.625rem;
+  object-fit: cover;
+}
+.smart-regions-a-container {
+  position: absolute;
+  top: 106.688rem;
+  left: 63.625rem;
+  font-size: var(--font-size-31xl);
+  line-height: 6.25rem;
+  text-transform: uppercase;
+  font-family: var(--font-bahnschrift);
+}
+.screenshot-2024-10-15-173238 {
+  position: absolute;
+  top: 132.063rem;
+  left: 10.5rem;
+  width: 45.313rem;
+  height: 23.188rem;
+  object-fit: cover;
+}
+.a-regionally-focused-strategy {
+  text-decoration: underline;
+}
+.by-establishing-a-container {
+  position: absolute;
+  top: 128.938rem;
+  left: 69.125rem;
+  font-size: var(--font-size-xl);
+  line-height: 4.063rem;
+  text-transform: capitalize;
+  font-family: var(--font-bahnschrift);
+  text-align: left;
+}
+.screenshot-2024-10-15-174017 {
+  position: absolute;
+  top: 188.5rem;
+  left: 63.938rem;
+  width: 53.063rem;
+  height: 29.563rem;
+  object-fit: cover;
+}
+.as-we-have-container,
+.building-a-resilient-container {
+  position: absolute;
+  left: 7.063rem;
+  font-size: var(--font-size-xl);
+  line-height: 3.125rem;
+  font-family: var(--font-bahnschrift);
+  text-align: left;
+}
+.as-we-have-container {
+  top: 188.5rem;
+  text-transform: capitalize;
+}
+.building-a-resilient-container {
+  top: 240.313rem;
+}
+.dia-icon,
+.partner-icon {
+  top: 294.063rem;
+  height: 44.625rem;
+  object-fit: cover;
+}
+.dia-icon {
+  position: absolute;
+  left: 7.063rem;
+  width: 33.625rem;
+}
+.partner-icon {
+  left: 80.313rem;
+  width: 32.688rem;
+}
+.faqs,
+.icon,
+.partner-icon {
+  position: absolute;
+}
+.icon {
+  top: 294.063rem;
+  left: 43.375rem;
+  width: 34.25rem;
+  height: 44.688rem;
+  object-fit: cover;
+}
+.faqs {
+  top: 366.375rem;
+  left: 23.125rem;
+  font-size: var(--font-size-81xl);
+  line-height: 6.25rem;
+  text-transform: uppercase;
+  font-family: var(--font-bahnschrift);
+}
+.what-is-nxtia-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.what-is-ntxia {
+  position: absolute;
+  top: 5.438rem;
+  left: 19.563rem;
+}
+.icon-ion-md-arrow-dropdown,
+.what-is-nxtia {
+  position: absolute;
+  top: 5.078rem;
+  left: 43rem;
+  width: 5.188rem;
+  height: 3.719rem;
+}
+.what-is-nxtia {
+  top: 415.688rem;
+  left: 63.375rem;
+  width: 51.75rem;
+  height: 12.313rem;
+  font-size: var(--font-size-21xl);
+}
+.how-does-nxtia-help-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.how-does-nxtia {
+  position: absolute;
+  top: 45.69%;
+  left: 7.73%;
+}
+.icon-ion-md-arrow-dropdown1 {
+  position: absolute;
+  height: 30.2%;
+  width: 10.02%;
+  top: 41.24%;
+  right: 6.88%;
+  bottom: 28.55%;
+  left: 83.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.how-does-nxtia-help {
+  position: absolute;
+  top: 378.75rem;
+  left: 5.688rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.how-does-nxtia1 {
+  position: absolute;
+  top: 45.69%;
+  left: 13.41%;
+}
+.work-with-private-sector {
+  position: absolute;
+  top: 403.375rem;
+  left: 5.688rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.how-do-i {
+  position: absolute;
+  top: 45.69%;
+  left: 20.05%;
+}
+.member-of-nxtia {
+  position: absolute;
+  top: 428rem;
+  left: 5.688rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.how-does-nxtia2 {
+  position: absolute;
+  top: 45.69%;
+  left: 18.6%;
+}
+.nonprofits {
+  position: absolute;
+  top: 498rem;
+  left: 4.75rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.how-does-nxtia3 {
+  position: absolute;
+  top: 45.69%;
+  left: 7.37%;
+}
+.rapid-transit {
+  position: absolute;
+  right: 4.875rem;
+  bottom: 108.125rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.do-i-have {
+  position: absolute;
+  top: 45.69%;
+  left: 16.79%;
+}
+.pay-to-be-member {
+  position: absolute;
+  top: 522.625rem;
+  left: 4.75rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.are-their-oppurtunities-container {
+  position: absolute;
+  top: 34.52%;
+  left: 4.59%;
+}
+.non-member {
+  position: absolute;
+  right: 4.875rem;
+  bottom: 83.5rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.what-resources-do {
+  position: absolute;
+  top: 39.09%;
+  left: 23.79%;
+}
+.members-receive {
+  position: absolute;
+  right: 4.875rem;
+  bottom: 58.875rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.can-i-check {
+  position: absolute;
+  top: 39.09%;
+  left: 24.15%;
+}
+.before-joining {
+  position: absolute;
+  bottom: 74.75rem;
+  left: 4.75rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.how-do-i1 {
+  position: absolute;
+  top: 39.09%;
+  left: 26.33%;
+}
+.connecterd-to-nxtia {
+  position: absolute;
+  right: 4.875rem;
+  bottom: 34.25rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.does-nxtia-partner {
+  position: absolute;
+  top: 39.09%;
+  left: 21.98%;
+}
+.partners-nxtia {
+  position: absolute;
+  bottom: 50.125rem;
+  left: 4.75rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.who-founded-nxtia1 {
+  position: absolute;
+  top: 39.09%;
+  left: 36.11%;
+}
+.who-founded-nxtia {
+  position: absolute;
+  bottom: 99.375rem;
+  left: 4.75rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.how-does-nxtia-container {
+  position: absolute;
+  top: 34.52%;
+  left: 10.27%;
+}
+.education-sector {
+  position: absolute;
+  top: 464.938rem;
+  right: 4.875rem;
+  width: 51.75rem;
+  height: 12.313rem;
+}
+.what-is-nxtias {
+  position: absolute;
+  top: 47.21%;
+  left: 30.92%;
+}
+.what-is-nxtia-mission {
+  position: absolute;
+  top: 440.313rem;
+  right: 4.875rem;
+  width: 51.75rem;
+  height: 12.313rem;
+  font-size: var(--font-size-21xl);
+}
+.drone-icon1,
+.horse-icon,
+.street-icon {
+  position: absolute;
+  top: 378.75rem;
+  left: 67.75rem;
+  width: 43.5rem;
+  height: 33.188rem;
+  object-fit: cover;
+}
+.horse-icon,
+.street-icon {
+  top: 452.625rem;
+  left: 6.563rem;
+  width: 49.938rem;
+  height: 33.063rem;
+}
+.horse-icon {
+  top: 489.563rem;
+  left: 66rem;
+  width: 47.5rem;
+  height: 36.625rem;
+}
+.about-tab {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 658.938rem;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-mediumseagreen-600);
+  font-family: var(--font-bebas-neue);
+}

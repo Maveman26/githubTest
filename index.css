@@ -1,0 +1,870 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+@keyframes shake-horizontal {
+  0%,
+  to {
+    transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    transform: translateX(-10px);
+  }
+  20%,
+  40%,
+  60% {
+    transform: translateX(10px);
+  }
+  80% {
+    transform: translateX(8px);
+  }
+  90% {
+    transform: translateX(-8px);
+  }
+}
+.path-37-icon9 {
+  position: absolute;
+  top: -13.811rem;
+  left: -21.536rem;
+  width: 162.413rem;
+  height: 134.888rem;
+}
+.span1 {
+  font-size: 3.375rem;
+}
+.connecting-the-dots-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 3.875rem;
+  text-transform: uppercase;
+}
+.who-we-are {
+  text-decoration: underline;
+}
+.who-we-are-the-north-texas-in {
+  margin: 0;
+}
+.who-we-are-container {
+  position: absolute;
+  top: 4.063rem;
+  left: 0.313rem;
+  font-size: var(--font-size-7xl);
+  line-height: 1.75rem;
+  text-transform: capitalize;
+  color: var(--color-white);
+}
+.connecting-the-dots-to-build-a-parent {
+  position: absolute;
+  top: 62.438rem;
+  left: 7.563rem;
+  width: 103.688rem;
+  height: 31.938rem;
+  text-align: left;
+}
+.background5,
+.top10,
+.top11 {
+  position: absolute;
+  left: 0;
+  width: 120rem;
+}
+.top10 {
+  top: 237.563rem;
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  height: 22.313rem;
+}
+.background5,
+.top11 {
+  top: 0;
+}
+.top11 {
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  height: 7.25rem;
+}
+.background5 {
+  height: 259.875rem;
+}
+.asset-icon,
+.north-texas-innovation-allianc18,
+.north-texas-innovation-allianc19 {
+  position: absolute;
+  top: -2.875rem;
+  left: 19rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.asset-icon,
+.north-texas-innovation-allianc19 {
+  top: 242.938rem;
+  left: 8.75rem;
+}
+.asset-icon {
+  top: 101.5rem;
+  left: 71.5rem;
+  width: 44.5rem;
+  height: 31.625rem;
+}
+.center-stack-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 57.813rem;
+  height: 36.375rem;
+}
+.north-texas-innovation-allianc20 {
+  position: absolute;
+  top: 0.813rem;
+  left: 15.813rem;
+  width: 26.125rem;
+  height: 17.375rem;
+  object-fit: cover;
+}
+.the-north-texas {
+  position: absolute;
+  top: 13.875rem;
+  left: 1.938rem;
+  letter-spacing: 3px;
+  display: inline-block;
+  width: 53.938rem;
+  height: 26.188rem;
+  mix-blend-mode: multiply;
+}
+.center-stack {
+  position: absolute;
+  top: 19.375rem;
+  left: 31.125rem;
+  width: 57.813rem;
+  height: 40.063rem;
+  font-size: var(--font-size-31xl);
+  color: var(--color-mediumseagreen-300);
+}
+.homepage-child {
+  position: absolute;
+  top: 1.938rem;
+  left: 41.563rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36.875rem;
+  height: 3.5rem;
+}
+.icon-ion-search-sharp9 {
+  position: absolute;
+  top: 2.776rem;
+  left: 42.25rem;
+  width: 2.075rem;
+  height: 1.725rem;
+}
+.icon-fa-solid-x9 {
+  position: absolute;
+  top: 3.093rem;
+  left: 76.75rem;
+  width: 1rem;
+  height: 1.175rem;
+}
+.the-mission-of-container {
+  position: absolute;
+  top: 5.125rem;
+  left: 0;
+  line-height: 2.063rem;
+  text-transform: capitalize;
+  mix-blend-mode: darken;
+}
+.span2 {
+  font-size: var(--font-size-54xl);
+}
+.proud-founding-member-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 4.688rem;
+  text-transform: uppercase;
+  font-size: var(--font-size-41xl);
+}
+.the-mission-of-the-national-sm-parent {
+  position: absolute;
+  top: 123.75rem;
+  left: 7.563rem;
+  width: 48.313rem;
+  height: 21.188rem;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-royalblue);
+}
+.about-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.about,
+.actions-areas-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 11.438rem;
+}
+.about {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  bottom: 0;
+}
+.about-our-members2:hover,
+.about:hover,
+.actions-areas1:hover,
+.actions-areas4:hover,
+.learn-12:hover,
+.learn-1:hover,
+.member-resources1:hover,
+.member-resources4:hover,
+.members:hover,
+.programs1:hover,
+.regional-project-gallery:hover,
+.sign-up8:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.actions-areas-item {
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  height: 2.688rem;
+}
+.actions-areas1,
+.programs1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.actions-areas1 {
+  width: 11.41%;
+  right: 75.94%;
+  left: 12.66%;
+}
+.programs1 {
+  left: calc(50% - 396px);
+  width: 11.438rem;
+}
+.news {
+  position: absolute;
+  height: 53.49%;
+  width: 79.23%;
+  top: 30.23%;
+  left: 10.93%;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.actions-areas4,
+.member-resources1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  bottom: 0;
+}
+.actions-areas4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 213px);
+  width: 11.438rem;
+}
+.member-resources1 {
+  right: 12.688rem;
+}
+.member-resources1,
+.member-resources4,
+.members-child {
+  position: absolute;
+  top: 0;
+  width: 11.438rem;
+}
+.member-resources4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  right: 0;
+  bottom: 0;
+}
+.members-child {
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-300);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  height: 2.688rem;
+}
+.members1 {
+  position: absolute;
+  top: 0.813rem;
+  left: 1.25rem;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 9.063rem;
+}
+.members {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  width: 11.41%;
+  top: 0;
+  right: 50.62%;
+  bottom: 0;
+  left: 37.97%;
+}
+.regional-project-gallery-container {
+  position: absolute;
+  top: 0.813rem;
+  left: 1.25rem;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 9.063rem;
+  height: 1.438rem;
+}
+.regional-project-gallery {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  width: 11.41%;
+  top: 0;
+  right: 37.97%;
+  bottom: 0;
+  left: 50.62%;
+}
+.main-tabs {
+  position: absolute;
+  top: 7.875rem;
+  left: 10.063rem;
+  width: 100.25rem;
+  height: 2.688rem;
+}
+.learn-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 8.625rem;
+  height: 3.438rem;
+}
+.history {
+  position: absolute;
+  top: 0.813rem;
+  left: 1.188rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 6.25rem;
+}
+.learn-1,
+.learn-11 {
+  position: absolute;
+  width: 8.625rem;
+  height: 3.438rem;
+}
+.learn-11 {
+  top: 0;
+  left: 0;
+  mix-blend-mode: normal;
+}
+.learn-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 96.063rem;
+  left: 8.125rem;
+}
+.learn-13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  mix-blend-mode: normal;
+}
+.learn-12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 146.125rem;
+  left: 7.875rem;
+  width: 8.625rem;
+  height: 3.438rem;
+}
+.about-our-members-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 14.188rem;
+  height: 3.438rem;
+}
+.about-our-members4 {
+  position: absolute;
+  top: 0.813rem;
+  left: 1.25rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 11.813rem;
+}
+.about-our-members2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 135.313rem;
+  left: 86.688rem;
+  width: 14.188rem;
+  height: 3.438rem;
+  mix-blend-mode: normal;
+}
+.sign-up-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.sign-up9 {
+  position: absolute;
+  top: 1.375rem;
+  left: 1.188rem;
+  font-size: var(--font-size-16xl);
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 8.75rem;
+}
+.sign-up8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 250.375rem;
+  left: 78.125rem;
+  width: 11.125rem;
+  height: 4.875rem;
+  mix-blend-mode: normal;
+}
+.digital-infrastructure-item {
+  position: absolute;
+  height: 74.6%;
+  width: 62.5%;
+  top: 0;
+  right: 16.29%;
+  bottom: 25.4%;
+  left: 21.21%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.digital-infrastructure4 {
+  position: absolute;
+  width: 100.38%;
+  top: 85.58%;
+  left: -0.19%;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 1.5px;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+  display: inline-block;
+  -webkit-text-stroke: 1px #000;
+}
+.icon-fa-brands-digital-ocean {
+  position: absolute;
+  height: 32.31%;
+  width: 25.91%;
+  top: 21.04%;
+  right: 34.71%;
+  bottom: 46.65%;
+  left: 39.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.digital-infrastructure3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 200.375rem;
+  left: 10.25rem;
+  width: 16.5rem;
+  height: 13.656rem;
+  mix-blend-mode: normal;
+}
+.built-environment3:hover,
+.digital-infrastructure3:hover,
+.economic-development-ent:hover,
+.education-workforce3:hover,
+.mobility-transportation12:hover,
+.sustainability-resilence:hover {
+  animation: 1s ease 0s infinite normal none shake-horizontal;
+  opacity: 1;
+}
+.mobility-transportation-item {
+  position: absolute;
+  top: 0;
+  left: 3.438rem;
+  border-radius: 50%;
+  width: 10.313rem;
+  height: 10.188rem;
+}
+.mobility-transportation13 {
+  position: absolute;
+  top: 11.688rem;
+  left: -0.031rem;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 1.5px;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+  display: inline-block;
+  width: 16.563rem;
+  -webkit-text-stroke: 1px #000;
+}
+.icon-ion-car-sharp {
+  position: absolute;
+  top: 3.625rem;
+  left: 6.813rem;
+  width: 3.5rem;
+  height: 2.888rem;
+}
+.mobility-transportation12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 200.375rem;
+  left: 26.75rem;
+  width: 16.5rem;
+  height: 13.656rem;
+}
+.economic-development-ent-child {
+  position: absolute;
+  top: 0;
+  left: 2.625rem;
+  border-radius: 50%;
+  width: 10.313rem;
+  height: 10.188rem;
+}
+.icon-fa-brands-connectdevelop {
+  position: absolute;
+  top: 3.063rem;
+  left: 5.563rem;
+  width: 4.4rem;
+  height: 4.075rem;
+}
+.economic-development-ent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 200.375rem;
+  left: 44rem;
+  width: 16.5rem;
+  height: 15.594rem;
+}
+.built-environment-child {
+  position: absolute;
+  top: 0;
+  left: 3.063rem;
+  border-radius: 50%;
+  width: 10.313rem;
+  height: 10.188rem;
+}
+.icon-fa-brands-envira {
+  position: absolute;
+  top: 3.543rem;
+  left: 6.188rem;
+  width: 4.069rem;
+  height: 3.731rem;
+}
+.built-environment3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 200.375rem;
+  left: 60rem;
+  width: 16.5rem;
+  height: 13.656rem;
+}
+.education-workforce-child {
+  position: absolute;
+  top: 0;
+  left: 2.813rem;
+  border-radius: 50%;
+  width: 10.313rem;
+  height: 10.188rem;
+}
+.icon-core-education {
+  position: absolute;
+  top: 3.323rem;
+  left: 5.813rem;
+  width: 4.375rem;
+  height: 3.95rem;
+}
+.education-workforce3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 200.375rem;
+  left: 76.75rem;
+  width: 16.5rem;
+  height: 13.656rem;
+}
+.sustainability-resilence-child {
+  position: absolute;
+  top: 0;
+  left: 3.094rem;
+  border-radius: 50%;
+  width: 10.313rem;
+  height: 10.188rem;
+}
+.icon-ion-grid {
+  position: absolute;
+  top: 2.906rem;
+  left: 6.094rem;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+.sustainability-resilence {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 200.375rem;
+  left: 92.906rem;
+  width: 16.5rem;
+  height: 13.656rem;
+}
+.our-region-has-container {
+  position: absolute;
+  top: 7.375rem;
+  left: 7.75rem;
+  line-height: 2.063rem;
+  text-transform: capitalize;
+  mix-blend-mode: darken;
+}
+.projects-happening-around {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-54xl);
+  text-decoration: underline;
+  line-height: 4.688rem;
+  text-transform: uppercase;
+}
+.our-region-has-always-been-ful-parent {
+  position: absolute;
+  top: 170.813rem;
+  left: 13.5rem;
+  width: 93.125rem;
+  height: 15.188rem;
+  font-size: var(--font-size-7xl);
+  color: var(--color-mediumseagreen-100);
+}
+.asset2-icon {
+  position: absolute;
+  top: 150rem;
+  left: 47.938rem;
+  width: 24.188rem;
+  height: 19.25rem;
+  object-fit: cover;
+}
+.homepage-item {
+  position: absolute;
+  top: 249.5rem;
+  left: 43.25rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 33.5rem;
+  height: 6.188rem;
+}
+.email-address12 {
+  position: absolute;
+  top: 251.25rem;
+  left: 47rem;
+  font-size: var(--font-size-16xl);
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-gray-200);
+  opacity: 0.46;
+}
+.subscribe-to-our12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+}
+.sign-up-with12 {
+  position: absolute;
+  top: 3.75rem;
+  left: 3.688rem;
+  font-size: var(--font-size-6xl);
+}
+.subscribe-to-our-newsletter-parent {
+  position: absolute;
+  top: 240.5rem;
+  left: 35.438rem;
+  width: 49.125rem;
+  height: 5.313rem;
+  color: var(--color-white);
+}
+.icon-fa-brands-square-twitter9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.twitter9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.563rem;
+  left: 89.75rem;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+.indeed9:hover,
+.twitter9:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.indeed-child7 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+}
+.in9,
+.indeed-child7,
+.indeed9 {
+  position: absolute;
+}
+.in9 {
+  top: 14.08%;
+  left: 23.29%;
+  font-size: var(--font-size-32xl);
+  letter-spacing: 0.51px;
+  text-transform: lowercase;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-darkturquoise);
+  text-align: center;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.indeed9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1.563rem;
+  left: 95rem;
+  width: 4.563rem;
+  height: 4.438rem;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: #f5fffc;
+  font-family: var(--font-bahnschrift);
+}

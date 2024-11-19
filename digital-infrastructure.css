@@ -1,0 +1,418 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.path-37-icon6,
+.path-41-icon3 {
+  position: absolute;
+  top: -44.131rem;
+  left: -25.894rem;
+  width: 162.413rem;
+  height: 134.888rem;
+}
+.path-41-icon3 {
+  top: 363.156rem;
+  left: -73.365rem;
+  width: 248.994rem;
+}
+.icon-ion-home-sharp13,
+.top7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.top7 {
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 7.25rem;
+}
+.icon-ion-home-sharp13 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-ion-home-sharp12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.89rem;
+  left: 1.563rem;
+  width: 3.975rem;
+  height: 3.469rem;
+}
+.icon-ion-home-sharp12:hover,
+.indeed6:hover,
+.learn-more-button5:hover,
+.mobility-transportation6:hover,
+.twitter6:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.north-texas-innovation-allianc12 {
+  position: absolute;
+  top: -2.875rem;
+  left: 19rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.digital-infrastructure-child {
+  position: absolute;
+  top: 1.938rem;
+  left: 41.563rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36.875rem;
+  height: 3.5rem;
+}
+.icon-ion-search-sharp6 {
+  position: absolute;
+  top: 2.776rem;
+  left: 42.25rem;
+  width: 2.075rem;
+  height: 1.725rem;
+}
+.icon-fa-solid-x6 {
+  position: absolute;
+  top: 3.093rem;
+  left: 76.75rem;
+  width: 1rem;
+  height: 1.175rem;
+}
+.digital-infrastructure1 {
+  position: absolute;
+  top: 19.688rem;
+  left: 22.563rem;
+  font-size: var(--font-size-81xl);
+  line-height: 6.25rem;
+  text-transform: uppercase;
+  color: var(--color-ghostwhite);
+  text-align: center;
+}
+.there-are-many {
+  margin: 0;
+}
+.there-are-many-container {
+  position: absolute;
+  top: 31.25rem;
+  left: 6.063rem;
+  font-size: var(--font-size-11xl);
+  line-height: 6.25rem;
+  text-transform: capitalize;
+  color: var(--color-ghostwhite);
+  text-align: center;
+}
+.north-texas-innovation-container6 {
+  position: absolute;
+  top: 133.375rem;
+  left: 10.938rem;
+  font-size: var(--font-size-81xl);
+  line-height: 2.063rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+  display: none;
+  mix-blend-mode: darken;
+}
+.bottom15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 22.313rem;
+}
+.north-texas-innovation-allianc13 {
+  position: absolute;
+  top: 5.375rem;
+  left: 8.75rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.bottom-child5 {
+  position: absolute;
+  top: 11.938rem;
+  left: 43.25rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 33.5rem;
+  height: 6.188rem;
+}
+.email-address8,
+.subscribe-to-our8 {
+  position: absolute;
+  line-height: 2.5rem;
+}
+.email-address8 {
+  top: 13.688rem;
+  left: 47rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-gray-200);
+  opacity: 0.46;
+}
+.subscribe-to-our8 {
+  top: 2.25rem;
+  left: 35.625rem;
+  font-size: var(--font-size-41xl);
+}
+.sign-up-with8 {
+  position: absolute;
+  top: 6rem;
+  left: 40.063rem;
+  font-size: var(--font-size-6xl);
+  text-transform: lowercase;
+}
+.learn-more-button-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.sign-up5 {
+  position: absolute;
+  top: 1.375rem;
+  left: 1.188rem;
+  font-size: var(--font-size-16xl);
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 8.75rem;
+}
+.learn-more-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12.625rem;
+  left: 77.75rem;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.bottom14 {
+  position: absolute;
+  top: 402.688rem;
+  left: 0;
+  width: 120rem;
+  height: 22.313rem;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.twitter6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.563rem;
+  left: 89.75rem;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+.indeed-child4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+}
+.in6,
+.indeed-child4,
+.indeed6 {
+  position: absolute;
+}
+.in6 {
+  top: 14.08%;
+  left: 23.29%;
+  font-size: var(--font-size-32xl);
+  letter-spacing: 0.51px;
+  text-transform: lowercase;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-darkturquoise);
+  text-align: center;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.indeed6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1.563rem;
+  left: 95rem;
+  width: 4.563rem;
+  height: 4.438rem;
+}
+.mobility-transportation7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-48xl);
+  line-height: 4.188rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+}
+.icon-ion-md-arrow-dropright5 {
+  position: absolute;
+  top: 0.969rem;
+  left: 38.495rem;
+  width: 2.519rem;
+  height: 3.069rem;
+}
+.mobility-transportation6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 382.813rem;
+  left: 76.75rem;
+  width: 41rem;
+  height: 5rem;
+}
+.screenshot-2024-10-15-201252,
+.screenshot-2024-10-15-201309,
+.screenshot-2024-10-15-201323 {
+  position: absolute;
+  top: 95.881rem;
+  left: 5.813rem;
+  width: 50.556rem;
+  height: 28.125rem;
+  object-fit: cover;
+}
+.screenshot-2024-10-15-201309,
+.screenshot-2024-10-15-201323 {
+  top: 95.668rem;
+  left: 63.317rem;
+}
+.screenshot-2024-10-15-201323 {
+  top: 152.244rem;
+  left: 5.533rem;
+}
+.screenshot-2024-10-15-201340,
+.screenshot-2024-10-15-201358,
+.screenshot-2024-10-15-201411 {
+  position: absolute;
+  top: 152.554rem;
+  left: 63.379rem;
+  width: 50.556rem;
+  height: 28.125rem;
+  object-fit: cover;
+}
+.screenshot-2024-10-15-201358,
+.screenshot-2024-10-15-201411 {
+  top: 221.266rem;
+  left: 5.533rem;
+}
+.screenshot-2024-10-15-201411 {
+  left: 63.938rem;
+}
+.screenshot-2024-10-15-201427,
+.screenshot-2024-10-15-201440,
+.screenshot-2024-10-15-201452 {
+  position: absolute;
+  top: 278.094rem;
+  left: 5.938rem;
+  width: 50.556rem;
+  height: 28.125rem;
+  object-fit: cover;
+}
+.screenshot-2024-10-15-201440,
+.screenshot-2024-10-15-201452 {
+  top: 278.078rem;
+  left: 63.629rem;
+}
+.screenshot-2024-10-15-201452 {
+  top: 322.244rem;
+  left: 5.938rem;
+}
+.in-partnership-with-container,
+.lake-cities-container {
+  position: absolute;
+  top: 130.063rem;
+  left: 5.813rem;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+}
+.lake-cities-container {
+  top: 186.563rem;
+  left: 5.5rem;
+}
+.internet-for-all-container {
+  position: absolute;
+  top: 256.063rem;
+  left: 5.5rem;
+  line-height: 2.5rem;
+}
+.dallas-smart-container2,
+.mckinney-district-container {
+  position: absolute;
+  top: 312.563rem;
+  left: 5.938rem;
+  line-height: 2.5rem;
+}
+.dallas-smart-container2 {
+  top: 311.938rem;
+  left: 64.125rem;
+}
+.dfw-airport-2 {
+  position: absolute;
+  top: 356.625rem;
+  left: 5.5rem;
+}
+.dallas-and-garland-container {
+  position: absolute;
+  top: 255.125rem;
+  left: 63.938rem;
+  line-height: 2.5rem;
+}
+.the-city-of-container,
+.the-city-of-container1 {
+  position: absolute;
+  top: 186.188rem;
+  left: 64.188rem;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+}
+.the-city-of-container1 {
+  top: 130.063rem;
+  left: 63.313rem;
+}
+.digital-infrastructure {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 425rem;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-teal-100);
+  font-family: var(--font-bahnschrift);
+}

@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-bebas-neue: "Bebas Neue";
+  --font-bahnschrift: Bahnschrift;
+
+  /* font sizes */
+  --font-size-5xl: 1.5rem;
+  --font-size-sm: 0.875rem;
+  --font-size-32xl: 3.188rem;
+  --font-size-6xl: 1.563rem;
+  --font-size-41xl: 3.75rem;
+  --font-size-16xl: 2.188rem;
+  --font-size-81xl: 6.25rem;
+  --font-size-31xl: 3.125rem;
+  --font-size-61xl: 5rem;
+  --font-size-lgi: 1.188rem;
+  --font-size-xl: 1.25rem;
+  --font-size-lg: 1.125rem;
+  --font-size-48xl: 4.188rem;
+  --font-size-51xl: 4.375rem;
+  --font-size-3xs: 0.625rem;
+  --font-size-11xl: 1.875rem;
+  --font-size-54xl: 4.563rem;
+  --font-size-7xl: 1.625rem;
+  --font-size-mid: 1.063rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-56xl: 4.688rem;
+
+  /* Colors */
+  --color-aliceblue: #eef8fa;
+  --color-white: #fff;
+  --color-mediumseagreen-100: #00daa3;
+  --color-mediumseagreen-200: #00d699;
+  --color-mediumseagreen-300: #00d18d;
+  --color-mediumseagreen-400: #06c395;
+  --color-mediumseagreen-500: #00cc80;
+  --color-mediumseagreen-600: #00c672;
+  --color-mediumseagreen-700: #01bf62;
+  --color-mediumseagreen-800: #00bf62;
+  --color-dimgray: #707070;
+  --color-dodgerblue: #2699fb;
+  --color-darkturquoise: #0bc6e2;
+  --color-royalblue: #005cb6;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #8e8e8e;
+  --color-skyblue: #0cc0df;
+  --color-ghostwhite: #f5f6fb;
+  --color-darkslateblue: #0049ac;
+  --color-black: #000;
+  --color-mediumturquoise: #5ce0e5;
+  --color-teal-100: #317c89;
+  --color-teal-200: #1c6f7d;
+  --color-teal-300: #16717c;
+  --color-darkcyan: #0097af;
+  --color-darkgray-100: #b4b4b4;
+  --color-darkgray-200: #ababab;
+  --color-darkgray-300: #a3a3a3;
+  --color-saddlebrown: #4d2e00;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-5xl: 24px;
+  --br-11xs: 2px;
+}

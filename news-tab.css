@@ -1,0 +1,441 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.path-37-icon8 {
+  position: absolute;
+  top: -85.694rem;
+  left: -25.081rem;
+  width: 162.413rem;
+  height: 152.469rem;
+}
+.top9 {
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.background4,
+.top9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120rem;
+  height: 7.25rem;
+}
+.background4:hover,
+.icon-ion-home-sharp16:hover,
+.indeed8:hover,
+.learn-more-button7:hover,
+.twitter8:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.icon-ion-home-sharp17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-ion-home-sharp16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.89rem;
+  left: 1.563rem;
+  width: 3.975rem;
+  height: 3.469rem;
+}
+.north-texas-innovation-allianc16 {
+  position: absolute;
+  top: -2.875rem;
+  left: 19rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.news-tab-child {
+  position: absolute;
+  top: 1.938rem;
+  left: 41.563rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36.875rem;
+  height: 3.5rem;
+}
+.icon-ion-search-sharp8 {
+  position: absolute;
+  top: 2.776rem;
+  left: 42.25rem;
+  width: 2.075rem;
+  height: 1.725rem;
+}
+.icon-fa-solid-x8 {
+  position: absolute;
+  top: 3.093rem;
+  left: 76.75rem;
+  width: 1rem;
+  height: 1.175rem;
+}
+.in-the-news {
+  margin: 0;
+}
+.north-texas-innovation-container8 {
+  position: absolute;
+  top: 22.25rem;
+  left: 16.625rem;
+  font-size: var(--font-size-61xl);
+  line-height: 6.25rem;
+  text-transform: uppercase;
+  color: var(--color-ghostwhite);
+}
+.north-texas-innovation-container9 {
+  position: absolute;
+  top: 6.313rem;
+  left: 0.25rem;
+  line-height: 3.313rem;
+  text-transform: capitalize;
+}
+.div,
+.read-more {
+  position: absolute;
+}
+.div {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+}
+.read-more {
+  top: 20.5rem;
+  left: 0.125rem;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+.link1 {
+  position: absolute;
+  top: 82.813rem;
+  left: 45.75rem;
+  width: 65.5rem;
+  height: 22.063rem;
+}
+.forbes-need-help-container {
+  position: absolute;
+  top: 6.313rem;
+  left: 0;
+  line-height: 3.313rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 0.125rem;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+}
+.read-more1 {
+  position: absolute;
+  top: 17.188rem;
+  left: 0;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+.link2,
+.link3 {
+  left: 45.75rem;
+  height: 18.75rem;
+}
+.link2 {
+  position: absolute;
+  top: 107.875rem;
+  width: 62.563rem;
+}
+.link3 {
+  top: 129.938rem;
+  width: 65.125rem;
+}
+.div4,
+.link3,
+.link4 {
+  position: absolute;
+}
+.link4 {
+  top: 151.688rem;
+  left: 46.125rem;
+  width: 64.688rem;
+  height: 18.75rem;
+}
+.div4 {
+  top: 0;
+  left: 0.438rem;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+}
+.link5,
+.link6 {
+  position: absolute;
+  top: 173.438rem;
+  left: 46.563rem;
+  width: 67.75rem;
+  height: 18.75rem;
+}
+.link6 {
+  top: 195.188rem;
+  width: 58.438rem;
+}
+.cisco-grants-office-container {
+  position: absolute;
+  top: 6.313rem;
+  left: 0.125rem;
+  line-height: 3.313rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.read-more6 {
+  top: 17.188rem;
+  left: 0.125rem;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+.div7,
+.link7,
+.read-more6 {
+  position: absolute;
+}
+.link7 {
+  top: 216.938rem;
+  left: 46.438rem;
+  width: 68.25rem;
+  height: 18.75rem;
+}
+.div7 {
+  top: 0;
+  left: 0.375rem;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+}
+.link8,
+.link9 {
+  position: absolute;
+  top: 238.688rem;
+  left: 46.688rem;
+  width: 63rem;
+  height: 18.75rem;
+}
+.link9 {
+  top: 260.438rem;
+  left: 46.125rem;
+  width: 63.938rem;
+}
+.ntxia-and-fbi-container {
+  position: absolute;
+  top: 4.063rem;
+  left: 0.375rem;
+  line-height: 3.313rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.link10 {
+  position: absolute;
+  top: 282.188rem;
+  left: 45.75rem;
+  width: 65.5rem;
+  height: 18.75rem;
+}
+.north-texas-innovation-container10 {
+  position: absolute;
+  top: 133.375rem;
+  left: 10.938rem;
+  font-size: var(--font-size-81xl);
+  line-height: 2.063rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-mediumseagreen-100);
+  display: none;
+  mix-blend-mode: darken;
+}
+.bottom19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 22.313rem;
+}
+.north-texas-innovation-allianc17 {
+  position: absolute;
+  top: 5.375rem;
+  left: 8.75rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.bottom-child7 {
+  position: absolute;
+  top: 11.938rem;
+  left: 43.25rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 33.5rem;
+  height: 6.188rem;
+}
+.email-address10 {
+  position: absolute;
+  top: 13.688rem;
+  left: 47rem;
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-gray-200);
+  opacity: 0.46;
+}
+.subscribe-to-our10 {
+  position: absolute;
+  top: 2.375rem;
+  left: 35.625rem;
+  font-size: var(--font-size-41xl);
+  line-height: 2.5rem;
+}
+.sign-up-with10 {
+  position: absolute;
+  top: 6.688rem;
+  left: 40.063rem;
+  font-size: var(--font-size-6xl);
+  text-transform: lowercase;
+}
+.learn-more-button-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.sign-up7 {
+  position: absolute;
+  top: 1.375rem;
+  left: 1.188rem;
+  font-size: var(--font-size-16xl);
+  line-height: 2.5rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 8.75rem;
+}
+.learn-more-button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12.625rem;
+  left: 77.75rem;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.bottom18 {
+  position: absolute;
+  top: 336.563rem;
+  left: 0;
+  width: 120rem;
+  height: 22.313rem;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.twitter8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.563rem;
+  left: 89.75rem;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+.indeed-child6 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+}
+.in8,
+.indeed-child6,
+.indeed8 {
+  position: absolute;
+}
+.in8 {
+  top: 14.08%;
+  left: 23.29%;
+  font-size: var(--font-size-32xl);
+  letter-spacing: 0.51px;
+  text-transform: lowercase;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-darkturquoise);
+  text-align: center;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.indeed8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1.563rem;
+  left: 95rem;
+  width: 4.563rem;
+  height: 4.438rem;
+}
+.icon-core-arrow-right {
+  position: absolute;
+  top: 118.263rem;
+  left: 66.916rem;
+  width: 3.9rem;
+  height: 1.738rem;
+}
+.fbisquarespaceimage-icon,
+.untitleddesign-icon {
+  position: absolute;
+  top: 196.75rem;
+  left: 7.875rem;
+  width: 34.375rem;
+  height: 18.75rem;
+  object-fit: cover;
+}
+.fbisquarespaceimage-icon {
+  top: 283.125rem;
+}
+.news-tab {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 358.875rem;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-mediumseagreen-500);
+  font-family: var(--font-bahnschrift);
+}

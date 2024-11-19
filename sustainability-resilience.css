@@ -1,0 +1,377 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.path-37-icon3,
+.path-41-icon1 {
+  position: absolute;
+  top: -44.131rem;
+  left: -25.894rem;
+  width: 162.413rem;
+  height: 109.8rem;
+}
+.path-41-icon1 {
+  top: 267.331rem;
+  left: -73.365rem;
+  width: 248.994rem;
+  height: 134.888rem;
+}
+.icon-ion-home-sharp7,
+.top4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.top4 {
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 7.25rem;
+}
+.icon-ion-home-sharp7 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-ion-home-sharp6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.89rem;
+  left: 1.563rem;
+  width: 3.975rem;
+  height: 3.469rem;
+}
+.icon-ion-home-sharp6:hover,
+.indeed3:hover,
+.twitter3:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.north-texas-innovation-allianc6 {
+  position: absolute;
+  top: -2.875rem;
+  left: 19rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.sustainability-resilience-child {
+  position: absolute;
+  top: 1.938rem;
+  left: 41.563rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 36.875rem;
+  height: 3.5rem;
+}
+.icon-ion-search-sharp3 {
+  position: absolute;
+  top: 2.776rem;
+  left: 42.25rem;
+  width: 2.075rem;
+  height: 1.725rem;
+}
+.icon-fa-solid-x3 {
+  position: absolute;
+  top: 3.093rem;
+  left: 76.75rem;
+  width: 1rem;
+  height: 1.175rem;
+}
+.sustainability-resilience1 {
+  position: absolute;
+  top: 21.125rem;
+  left: 29.188rem;
+  font-size: var(--font-size-51xl);
+  text-transform: uppercase;
+  color: var(--color-ghostwhite);
+}
+.aging-infrastructure-rapidly {
+  margin: 0;
+}
+.aging-infrastructure-rapidly-container {
+  position: absolute;
+  top: 31.063rem;
+  left: 23.688rem;
+  font-size: var(--font-size-xl);
+  line-height: 4.188rem;
+  text-transform: capitalize;
+  color: var(--color-ghostwhite);
+}
+.north-texas-innovation-container3 {
+  position: absolute;
+  top: 133.375rem;
+  left: 10.938rem;
+  font-size: var(--font-size-81xl);
+  line-height: 2.063rem;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-mediumseagreen-100);
+  display: none;
+  mix-blend-mode: darken;
+}
+.bottom9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-skyblue);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 120rem;
+  height: 22.313rem;
+}
+.north-texas-innovation-allianc7 {
+  position: absolute;
+  top: 5.375rem;
+  left: 8.75rem;
+  width: 19.75rem;
+  height: 13.125rem;
+  object-fit: cover;
+}
+.bottom-child2 {
+  position: absolute;
+  top: 11.938rem;
+  left: 43.25rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 33.5rem;
+  height: 6.188rem;
+}
+.email-address5 {
+  position: absolute;
+  top: 13.688rem;
+  left: 47rem;
+  line-height: 2.5rem;
+  color: var(--color-gray-200);
+  opacity: 0.46;
+}
+.sign-up-with5,
+.subscribe-to-our5 {
+  position: absolute;
+  font-family: var(--font-bahnschrift);
+}
+.subscribe-to-our5 {
+  top: 2.25rem;
+  left: 35.625rem;
+  font-size: var(--font-size-41xl);
+  line-height: 2.5rem;
+}
+.sign-up-with5 {
+  top: 6rem;
+  left: 40.063rem;
+  font-size: var(--font-size-6xl);
+  text-transform: lowercase;
+}
+.learn-more-button-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumseagreen-200);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 11.125rem;
+  height: 4.875rem;
+}
+.sign-up2 {
+  position: absolute;
+  top: 1.375rem;
+  left: 1.188rem;
+  line-height: 2.5rem;
+  display: inline-block;
+  width: 8.75rem;
+}
+.learn-more-button2 {
+  position: absolute;
+  top: 12.625rem;
+  left: 77.75rem;
+  width: 11.125rem;
+  height: 4.875rem;
+  cursor: pointer;
+}
+.bottom8 {
+  position: absolute;
+  top: 306.488rem;
+  left: 0;
+  width: 120rem;
+  height: 22.313rem;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-bebas-neue);
+}
+.twitter3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1.563rem;
+  left: 89.75rem;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+.indeed-child1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+}
+.in3,
+.indeed-child1,
+.indeed3 {
+  position: absolute;
+}
+.in3 {
+  top: 14.08%;
+  left: 23.29%;
+  font-size: var(--font-size-32xl);
+  letter-spacing: 0.51px;
+  text-transform: lowercase;
+  font-family: var(--font-bebas-neue);
+  color: var(--color-darkturquoise);
+  text-align: center;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.indeed3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1.563rem;
+  left: 95rem;
+  width: 4.563rem;
+  height: 4.438rem;
+}
+.dfw-airport-container1 {
+  position: absolute;
+  top: 106.688rem;
+  left: 5.813rem;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.education-workforce1 {
+  position: absolute;
+  top: -0.62%;
+  left: 10.02%;
+  line-height: 4.188rem;
+  -webkit-text-stroke: 1px #707070;
+}
+.icon-ion-md-arrow-dropright2 {
+  position: absolute;
+  height: 61.38%;
+  width: 7.02%;
+  top: 19.39%;
+  right: 92.99%;
+  bottom: 19.24%;
+  left: -0.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mobility-transportation2 {
+  position: absolute;
+  bottom: 34.012rem;
+  left: 2.561rem;
+  width: 35.875rem;
+  height: 5rem;
+  cursor: pointer;
+  font-size: var(--font-size-48xl);
+  color: var(--color-mediumseagreen-100);
+  font-family: var(--font-bebas-neue);
+}
+.gensler-dealey-plaza-1200x700-icon,
+.maxresdefault-2-icon {
+  position: absolute;
+  top: 73rem;
+  left: 5.835rem;
+  width: 50.556rem;
+  height: 28.125rem;
+  object-fit: cover;
+}
+.gensler-dealey-plaza-1200x700-icon {
+  left: 63.607rem;
+}
+.dallas-county-container {
+  position: absolute;
+  top: 106.688rem;
+  left: 63.625rem;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.risecoalitionlogo-icon {
+  position: absolute;
+  top: 143.769rem;
+  left: 5.835rem;
+  width: 50.556rem;
+  height: 28.125rem;
+  object-fit: cover;
+}
+.north-texas-container {
+  position: absolute;
+  top: 177.438rem;
+  left: 5.813rem;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.southwestern-medical-district-icon {
+  position: absolute;
+  top: 143.769rem;
+  left: 63.625rem;
+  width: 50.556rem;
+  height: 28.125rem;
+  object-fit: cover;
+}
+.dallas-southwestern-container {
+  position: absolute;
+  top: 177.438rem;
+  left: 63.625rem;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.markus-spiske-zknsvqbrspe-unsp-icon {
+  position: absolute;
+  top: 204.106rem;
+  left: 5.835rem;
+  width: 50.556rem;
+  height: 28.125rem;
+  object-fit: cover;
+}
+.north-texas-north-texas-container {
+  position: absolute;
+  top: 237.75rem;
+  left: 5.813rem;
+  line-height: 2.5rem;
+  text-transform: capitalize;
+  text-align: left;
+}
+.sustainability-resilience {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 326.375rem;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-teal-100);
+  font-family: var(--font-bahnschrift);
+}

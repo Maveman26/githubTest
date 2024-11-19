@@ -1,0 +1,256 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.blank-line20 {
+  margin: 0;
+}
+.blank-line20,
+.span {
+  font-size: var(--font-size-xl);
+}
+.continue13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 0.75rem;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.continue12 {
+  position: absolute;
+  top: calc(50% - 257px);
+  left: calc(50% - 169px);
+  width: 21.125rem;
+  height: 8.125rem;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+}
+.header6 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  height: 10.563rem;
+}
+.header6,
+.header7,
+.inputs-inner {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-saddlebrown);
+}
+.header7 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  height: 10.563rem;
+}
+.inputs-inner {
+  top: 0;
+  border-radius: var(--br-5xl);
+  border: 2px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 37.838rem;
+  height: 3rem;
+}
+.johndoemailcom14 {
+  position: absolute;
+  top: 1rem;
+  left: 16.701rem;
+}
+.inputs34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 37.838rem;
+  height: 3rem;
+}
+.nxtia-member-view {
+  margin: 0;
+}
+.johndoemailcom15 {
+  position: absolute;
+  top: 0.875rem;
+  left: 14.857rem;
+}
+.inputs35 {
+  position: absolute;
+  top: 5.063rem;
+  left: 0;
+  width: 37.838rem;
+  height: 3rem;
+}
+.inputs35:hover,
+.inputs38:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.inputs33 {
+  position: absolute;
+  height: 13.42%;
+  width: 31.53%;
+  top: 36.78%;
+  right: 51.65%;
+  bottom: 49.79%;
+  left: 16.82%;
+}
+.johndoemailcom16 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 35.49px);
+}
+.inputs37 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-saddlebrown);
+  border: 2px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.johndoemailcom17 {
+  position: absolute;
+  bottom: 0.125rem;
+  left: calc(50% - 64.99px);
+}
+.inputs38 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-saddlebrown);
+  border: 2px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.inputs36 {
+  position: absolute;
+  top: calc(50% - 127px);
+  left: calc(50% - 637.06px);
+  width: 37.838rem;
+  height: 8.063rem;
+}
+.johndoemailcom18,
+.johndoemailcom19 {
+  position: absolute;
+  top: 1rem;
+  left: 14.888rem;
+}
+.johndoemailcom19 {
+  left: 14.326rem;
+}
+.inputs41 {
+  position: absolute;
+  top: 5.063rem;
+  left: 0;
+  width: 37.838rem;
+  height: 3rem;
+}
+.inputs39 {
+  position: absolute;
+  height: 13.42%;
+  width: 31.53%;
+  top: 52.81%;
+  right: 51.65%;
+  bottom: 33.77%;
+  left: 16.82%;
+}
+.johndoemailcom20,
+.johndoemailcom21 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 64.49px);
+}
+.johndoemailcom21 {
+  left: calc(50% - 73.49px);
+}
+.inputs44 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-saddlebrown);
+  border: 2px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  height: 3rem;
+}
+.inputs42 {
+  position: absolute;
+  top: calc(50% + 27px);
+  left: calc(50% - 637.06px);
+  width: 37.838rem;
+  height: 8.063rem;
+}
+.johndoemailcom22,
+.johndoemailcom23 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 25.99px);
+}
+.johndoemailcom23 {
+  left: calc(50% - 21.49px);
+}
+.inputs45 {
+  position: absolute;
+  top: calc(50% + 27px);
+  left: calc(50% + 31.65px);
+  width: 37.838rem;
+  height: 8.063rem;
+}
+.johndoemailcom24 {
+  position: absolute;
+  top: 1rem;
+  left: 16.544rem;
+}
+.johndoemailcom25 {
+  position: absolute;
+  top: 0.875rem;
+  left: 16.607rem;
+}
+.inputs48 {
+  position: absolute;
+  height: 13.42%;
+  width: 31.53%;
+  top: 36.78%;
+  right: 16.82%;
+  bottom: 49.79%;
+  left: 51.65%;
+}
+.johndoemailcom26 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 37.99px);
+}
+.johndoemailcom27 {
+  position: absolute;
+  bottom: 0.125rem;
+  left: calc(50% - 36.99px);
+}
+.inputs51 {
+  position: absolute;
+  top: calc(50% - 127px);
+  left: calc(50% + 31.65px);
+  width: 37.838rem;
+  height: 8.063rem;
+}
+.admin-view {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 60.063rem;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-bebas-neue);
+}
